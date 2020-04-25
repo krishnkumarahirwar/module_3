@@ -1,0 +1,10 @@
+com\capg\dao\ProductDaoImpl.class
+com\capg\dto\ProductDto.class
+com\capg\service\ProductServiceImpl.class
+com\capg\config\MyWebApplicationInitializer.class
+com\capg\controller\ProductRestController.class
+com\capg\service\IProductService.class
+com\capg\config\MyWebMVCConfig.class
+com\capg\controller\HelloController.class
+com\capg\entity\Product.class
+com\capg\dao\IProductDao.class
